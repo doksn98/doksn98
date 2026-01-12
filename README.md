@@ -1,4 +1,4 @@
-# Hallo, ich bin Dogukan Salik. 
+# Servus, ich bin Dogukan Salik. :)
 <a href="https://www.linkedin.com/in/dogukan-salik-730482233/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Derzeit studiere ich Informatik mit einer besonderen Leidenschaft für Cybersecurity, während ich meine Programmierkenntnisse in der Freizeit durch die Entwicklung kreativer Minispiele vertiefe und praktisch anwende.
@@ -11,7 +11,7 @@ Seit meiner Kindheit begeistert mich das Zusammenspiel von Hard- und Software, w
 | Projekte                                     | Link       |
 |-----------------------------------------------|----------------------------|
 | Brute - Force - Simulator (Testzwecke)         | <a href="https://github.com/doksn98/Tetris">Detection Lab</a> |
-| Tetris                                         | |
+| Tetris                                         | <a href="https://github.com/doksn98/Tetris">Tetris</a> |
 | Brute - Force - Simulator (Testzwecke)         | |
 | Brute - Force - Simulator (Testzwecke)         | |
 
