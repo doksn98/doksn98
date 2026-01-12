@@ -12,8 +12,7 @@ Seit meiner Kindheit begeistert mich das Zusammenspiel von Hard- und Software, w
 |-----------------------------------------------|----------------------------------------------------------------|
 | Brute - Force - Simulator (Testzwecke)         | <a href="https://github.com/doksn98/Tetris">Detection Lab</a> | 
 | Tetris                                         | <a href="https://github.com/doksn98/Tetris">Tetris</a> |      | 
-| Brute - Force - Simulator (Testzwecke)         | |
-| Brute - Force - Simulator (Testzwecke)         | |
+
 
 
 | Projekte                                     |
