@@ -6,7 +6,7 @@ Derzeit studiere ich Informatik mit einer besonderen Leidenschaft für Cybersecu
 ## Meine Ziele
 Seit meiner Kindheit begeistert mich das Zusammenspiel von Hard- und Software, wobei mich heute vor allem das enorme Potenzial der IT – von Prozessoptimierung über Softwareentwicklung bis hin zur Cybersecurity – fasziniert. Mein Ziel ist es, diese lebenslange Begeisterung für modernste Technologien als fundierte Expertise in meine berufliche Laufbahn einzubringen und mich stetig zum absoluten Experten weiterzuentwickeln.
 
-## Fähigkeiten
+## Fähigkeiten https://hub.gesis.mybinder.org/user/doksn98-brute---ce---simulator--ktn1s1wa/lab
 
 | Projektename                                    | Repository   |
 |-----------------------------------------------|----------------------------------------------------------------|
@@ -17,5 +17,5 @@ Seit meiner Kindheit begeistert mich das Zusammenspiel von Hard- und Software, w
 
 | Projekte                                     |
 |-----------------------------------------------|
-| <a href="https://doksn98.github.io/Tetris/">Tetris</a> |    
-
+| <a href="https://doksn98.github.io/Tetris/">Tetris</a> |   
+| <a href="https://hub.gesis.mybinder.org/user/doksn98-brute---ce---simulator--ktn1s1wa/lab">Brute-Force-Simulator</a> |
