@@ -10,9 +10,9 @@ Seit meiner Kindheit begeistert mich das Zusammenspiel von Hard- und Software, w
 
 | Projektename                                    | Repository   |
 |-----------------------------------------------|----------------------------------------------------------------|
-| Brute - Force - Simulator (Testzwecke)         | <a href="https://github.com/doksn98/Brute---Force---Simulator-/tree/main">Brute-Force-Simulator</a> | 
+| Brute - Force - Simulator (Testzwecke)         | <a href="https://github.com/doksn98/Brute---Force---Simulator-">Brute-Force-Simulator</a> | 
 | Tetris                                         | <a href="https://github.com/doksn98/Tetris">Tetris</a> |      
-| Hintergrund Entferner                          | <a href="https://github.com/doksn98/Tetris">Tetris</a> |      
+| Hintergrund Entferner                          | <a href="https://github.com/doksn98/Hintergrund-Entferner">Hintergrund Entferner</a> |      
 
 
 
