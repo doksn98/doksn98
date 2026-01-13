@@ -20,4 +20,4 @@ Seit meiner Kindheit begeistert mich das Zusammenspiel von Hard- und Software, w
 |-----------------------------------------------|
 | <a href="https://doksn98.github.io/Tetris/">Tetris</a> |   
 | <a href="https://mybinder.org/v2/gh/doksn98/Brute---Force---Simulator-/main">Brute-Force-Simulator</a> |
-| <a href="https://mybinder.org/v2/gh/doksn98/Brute---Force---Simulator-/main">Hintergrund Entferner</a> |
+| <a href="https://hintergrund-entferner.vercel.app">Hintergrund Entferner</a> |
