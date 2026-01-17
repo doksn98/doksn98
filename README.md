@@ -12,7 +12,7 @@ Seit meiner Kindheit begeistert mich das Zusammenspiel von Hard- und Software, w
 |-----------------------------------------------|----------------------------------------------------------------|
 | Brute - Force - Simulator (Testzwecke)         | <a href="https://github.com/doksn98/Brute---Force---Simulator-">Brute-Force-Simulator</a> | 
 | Hintergrund Entferner                          | <a href="https://github.com/doksn98/Hintergrund-Entferner">Hintergrund Entferner</a> | 
-| Cyber Hai (Minispiel) 
+| Cyber Hai (Minispiel)                          | <a href="https://github.com/doksn98/Cyber-Hai">Cyber Hai</a> | 
 | Tetris (Minispiel)                             | <a href="https://github.com/doksn98/Tetris">Tetris</a> |      
 
 
