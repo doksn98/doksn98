@@ -27,6 +27,7 @@ Seit meiner Kindheit begeistert mich das Zusammenspiel von Hard- und Software, w
 | Cyber Hai (Minispiel)                          | <a href="https://github.com/doksn98/Cyber-Hai">Cyber Hai</a> | 
 | Tetris (Minispiel)                             | <a href="https://github.com/doksn98/Tetris">Tetris</a> |      
 | Beziehungscalculator (mit datetime)            | <a href="https://github.com/doksn98/datetime/blob/main/main.py">Beziehungscalculator</a> |
+| Einfacher Wecker mit Pyhton                    | <a href="https://github.com/doksn98/wecker/blob/main/main.py">Einfacher Wecker</a> |
 
 
 
