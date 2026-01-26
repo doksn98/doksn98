@@ -36,7 +36,7 @@ Seit meiner Kindheit begeistert mich das Zusammenspiel von Hard- und Software, w
 | <a href="https://hintergrund-entferner.vercel.app">Hintergrund Entferner</a> |
 | <a href="https://doksn98.github.io/Cyber-Hai/">Cyber Hai (Minispiel)</a> |
 | <a href="https://doksn98.github.io/Tetris/">Tetris (Minispiel)</a> |   
-| <a href="">Beziehungscalculator </a> |
+
 
 
 
