@@ -26,6 +26,7 @@ Seit meiner Kindheit begeistert mich das Zusammenspiel von Hard- und Software, w
 | Hintergrund Entferner                          | <a href="https://github.com/doksn98/Hintergrund-Entferner">Hintergrund Entferner</a> | 
 | Cyber Hai (Minispiel)                          | <a href="https://github.com/doksn98/Cyber-Hai">Cyber Hai</a> | 
 | Tetris (Minispiel)                             | <a href="https://github.com/doksn98/Tetris">Tetris</a> |      
+| Beziehungscalculator (mit datetime)            | <a href="https://github.com/doksn98/datetime/blob/main/main.py">Beziehungscalculator</a> |
 
 
 
@@ -35,4 +36,7 @@ Seit meiner Kindheit begeistert mich das Zusammenspiel von Hard- und Software, w
 | <a href="https://hintergrund-entferner.vercel.app">Hintergrund Entferner</a> |
 | <a href="https://doksn98.github.io/Cyber-Hai/">Cyber Hai (Minispiel)</a> |
 | <a href="https://doksn98.github.io/Tetris/">Tetris (Minispiel)</a> |   
+| <a href="">Beziehungscalculator </a> |
+
+
 
